@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToolbarTest</string>
+    <string name="second_text">This is secondActivity</string>
+</resources>
