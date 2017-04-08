@@ -24,7 +24,7 @@
         </activity>
         <activity
             android:name=".Activity.SecondActivity"
-            android:theme="@style/AppTheme">
+            android:theme="@style/JK.SwipeBack.Transparent.Theme">
         </activity>
     </application>
 

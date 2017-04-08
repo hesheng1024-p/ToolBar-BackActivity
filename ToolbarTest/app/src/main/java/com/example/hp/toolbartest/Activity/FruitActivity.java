@@ -22,6 +22,9 @@ public class FruitActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fruit);
 
+        //用于设置向右滑动为返回，该库默认是向上滑动为返回
+//        setDragEdge(SwipeBackLayout.DragEdge.LEFT);
+
         Intent intent = getIntent();
         String fruitName = intent.getStringExtra(FRUIT_NAME);
         int fruitImageId = intent.getIntExtra(FRUIT_IMAGE_ID, 0);
