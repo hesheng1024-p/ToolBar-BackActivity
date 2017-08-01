@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_1f0f7fe101f2e9758ac65949a304e547fa60cc6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_e0f7d9f8396d14ed60caeb9b6fba82e54e7a5985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_9e353e5e6a0352d9c28b90f81f736766d8f5709b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_f3d288f99bf4caa1bd6b54240c36680ceafddc96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\glide-3.7.0_4ac71b50296e8921538f8127799fc741e5541069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_d85f45af20a16785b26c277d065608412702895a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_0b4dd200cf5c73d68e4c962ea42256ebf31dcc6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_2158f36a49cc74bac971df1bcd34fa9febc9cffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_2da08437545ebfd40f7052fca16507dfc6b0dfdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.github.liuguangqiang.swipeback\library\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2ce37ca3af00f3c2fe692c9a911617a6d5f501b">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.github.liuguangqiang.swipeback-library-1.0.2_c01a901c5db498ac458cce011ba60b3bc710df75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_018eb2679adb6303ef24239d91fea23283451200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_f10d7228df52003b1a868007f742d7047580d276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_80e5b83e51ba8b5e652596e64797159a7d8fa326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_80066ea530cddf541d8e57391b53800f04d68081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_e30333aa50a402d3ea43803aeaa305ff5a7684f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_c6d4ea781cd65c21697b23f6f342609d04d18c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\APP\Android\ToolbarTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="F:\APP\Android\ToolbarTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_9c670b079de1667b00510f96497866d405ae874e.jar" />
+    </item>
+
+</items>
